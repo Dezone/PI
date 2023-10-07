@@ -47,7 +47,7 @@ Please feel free to contract us on source code details and info. We'd be more th
   - [Gitfront](https://gitfront.io/r/user-2248552/PvcSrinx1Gn3/CD/)
 - **BS-Block Scanner**
   - [Gitfront](https://gitfront.io/r/user-2248552/aJHhrW37MhDB/BS/)
-- **UA-User Attentication**
+- **UA-User Authentication**
   - [Gitfront](https://gitfront.io/r/user-2248552/4i15kjiG7CQk/UA/)
 - **WD-Documents**
   - [Gitfront](https://gitfront.io/r/user-2248552/hXUZVxn8JnqS/WD/)
