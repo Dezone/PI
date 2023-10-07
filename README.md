@@ -37,7 +37,7 @@ Please feel free to contract us on source code details and info. We'd be more th
   - [Github](https://github.com/Mapoofano)
 - **Navid-Filsaraee**
   - [Github](https://github.com/NFEL)
-  - [📫](nfilsaraee@gmail.com)
+  - [📫](emailto:nfilsaraee@gmail.com)
 - [Mohammad-Hossein-Parvizi]
   - [Github(https://github.com/Moho370)
   - [📫](nfilsaraee@gmail.com)
