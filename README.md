@@ -33,14 +33,14 @@ Please feel free to contract us on source code details and info. We'd be more th
 
 ### Team 
 - **Majid-HassanPour**
-  - [📫](majidhasanpour3@gmail.com)
+  - [📫](mailto:majidhasanpour3@gmail.com)
   - [Github](https://github.com/Mapoofano)
 - **Navid-Filsaraee**
   - [Github](https://github.com/NFEL)
-  - [📫](emailto:nfilsaraee@gmail.com)
-- [Mohammad-Hossein-Parvizi]
-  - [Github(https://github.com/Moho370)
-  - [📫](nfilsaraee@gmail.com)
+  - [📫](mailto:nfilsaraee@gmail.com)
+- **Mohammad-Hossein-Parvizi**
+  - [Github](https://github.com/Moho370)
+  - [📫](mailto:mhparvizi1990@gmail.com)
 
 #### Repositories 📎
 - **CD-Our Contants Data**
